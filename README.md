@@ -18,7 +18,7 @@ This is how it looks like after putting some shrink-on tube on it.
 
 ## Sonoff 4CH Pro
 
-The Sonoff 4CH Pro has beend flashed with Tasmota firmware using [SonOTA](https://github.com/mirko/SonOTA).
+The Sonoff 4CH Pro has been flashed with Tasmota firmware using [SonOTA](https://github.com/mirko/SonOTA).
 
 Please see the [wiki](https://github.com/mirko/SonOTA/wiki) for known working configurations.
 
