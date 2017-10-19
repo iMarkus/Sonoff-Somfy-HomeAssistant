@@ -39,7 +39,7 @@ After flashing Sonoff with Tasmota firmware it is possible to control it using M
 
 ## HomeAssistant
 
-<img src="https://github.com/iMarkus/Sonoff-Somfy-HomeAssistant/blob/master/media/pyLoadSpeedSensor.png">
+Sample configuration.
 
 ### configuration.yaml
 ```
